@@ -1,5 +1,6 @@
 // add solution here
 function whileLoop(num){
-  let i=n
+  let num = 50
+  
   
 }
